@@ -1,6 +1,6 @@
 # SentinelVision
 
-![SentinelVision Logo](path/to/your/image.png)
+![SentinelVision Logo](assets/logo.png)
 
 SentinelVision is an AI-powered gun detection system designed to enhance security and safety measures, particularly for small businesses vulnerable to armed robberies. The system analyzes video feeds in real-time, detects firearms, and triggers immediate alerts to authorities, enabling swift response and potentially preventing crimes before they escalate.
 
