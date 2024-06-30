@@ -91,7 +91,6 @@ st.title("SentinelVision Gun Detection")
 uploaded_file = st.file_uploader("Choose a video file", type=["mp4", "avi", "mov"])
 
 if uploaded_file is not None:
-    st.write(uploaded_file)
     # Save uploaded video to a temporary location
     temp_video_path = "temp_uploaded_video.mp4"
     with open(temp_video_path, "wb") as f:

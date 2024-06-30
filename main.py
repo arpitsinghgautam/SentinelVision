@@ -3,7 +3,7 @@ import supervision as sv
 from ultralytics import YOLOv10
 import numpy as np
 
-model = YOLOv10('train9_best.pt')
+model = YOLOv10('8_best.pt')
 
 bounding_box_annotator = sv.BoundingBoxAnnotator()
 label_annotator = sv.LabelAnnotator()
